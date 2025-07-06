@@ -24,22 +24,22 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
-  <code><img height="30" src="https://www.svgrepo.com/show/349402/html5.svg" alt='html'></code>
-  <code><img height="30" src="https://www.svgrepo.com/show/349330/css3.svg" alt='css'></code>
-  <code><img height="30" src="https://www.svgrepo.com/show/349419/javascript.svg" alt='javascript'></code>
-  <code><img height="30" src="https://www.svgrepo.com/show/374146/typescript-official.svg" alt='typescript'></code>
-  <code><img height="30" src="https://www.svgrepo.com/show/355190/reactjs.svg" alt='reactjs'></code>
-  <code><img height="30" src="https://www.svgrepo.com/show/373687/ionic.svg" alt='ionic'></code>
-  <code><img height="30" src="https://www.svgrepo.com/show/374118/tailwind.svg" alt='tailwind'></code>
-  <code><img height="30" src="https://www.svgrepo.com/show/374067/scss2.svg" alt='scss'></code>
-  <code><img height="30" src="https://www.svgrepo.com/show/452075/node-js.svg" alt='node-js'></code>
-  <code><img height="30" src="https://www.svgrepo.com/show/330398/express.svg" alt='express'></code>
-  <code><img height="30" src="https://www.svgrepo.com/show/373845/mongo.svg" alt='mongodb'></code>
-  <code><img height="30" src="https://www.svgrepo.com/show/373848/mysql.svg" alt='mysql'></code>
-  <code><img height="30" src="https://www.svgrepo.com/show/373595/firebase.svg" alt='firebase'></code>
-  <code><img height="30" src="https://www.svgrepo.com/show/452210/git.svg" alt='figma'></code>
-  <code><img height="30" src="https://www.svgrepo.com/show/448222/figma.svg" alt='git'></code>
-  <code><img height="30" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt='postman'></code>
-  <code><img height="30" src="https://www.svgrepo.com/show/452192/docker.svg" alt='docker'></code>
-  <code><img height="30" src="https://www.svgrepo.com/show/448236/linux.svg" alt='linux'></code>
+  <code><img height="30" width="30" src="https://www.svgrepo.com/show/349402/html5.svg" alt='html'></code>
+  <code><img height="30" width="30" src="https://www.svgrepo.com/show/349330/css3.svg" alt='css'></code>
+  <code><img height="30" width="30" src="https://www.svgrepo.com/show/349419/javascript.svg" alt='javascript'></code>
+  <code><img height="30" width="30" src="https://www.svgrepo.com/show/374146/typescript-official.svg" alt='typescript'></code>
+  <code><img height="30" width="30" src="https://www.svgrepo.com/show/355190/reactjs.svg" alt='reactjs'></code>
+  <code><img height="30" width="30" src="https://www.svgrepo.com/show/373687/ionic.svg" alt='ionic'></code>
+  <code><img height="30" width="30" src="https://www.svgrepo.com/show/374118/tailwind.svg" alt='tailwind'></code>
+  <code><img height="30" width="30" src="https://www.svgrepo.com/show/374067/scss2.svg" alt='scss'></code>
+  <code><img height="30" width="30" src="https://www.svgrepo.com/show/452075/node-js.svg" alt='node-js'></code>
+  <code><img height="30" width="30" src="https://www.svgrepo.com/show/330398/express.svg" alt='express'></code>
+  <code><img height="30" width="30" src="https://www.svgrepo.com/show/373845/mongo.svg" alt='mongodb'></code>
+  <code><img height="30" width="30" src="https://www.svgrepo.com/show/373848/mysql.svg" alt='mysql'></code>
+  <code><img height="30" width="30" src="https://www.svgrepo.com/show/373595/firebase.svg" alt='firebase'></code>
+  <code><img height="30" width="30" src="https://www.svgrepo.com/show/452210/git.svg" alt='figma'></code>
+  <code><img height="30" width="30" src="https://www.svgrepo.com/show/448222/figma.svg" alt='git'></code>
+  <code><img height="30" width="30" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt='postman'></code>
+  <code><img height="30" width="30" src="https://www.svgrepo.com/show/452192/docker.svg" alt='docker'></code>
+  <code><img height="30" width="30" src="https://www.svgrepo.com/show/448236/linux.svg" alt='linux'></code>
 </div>
